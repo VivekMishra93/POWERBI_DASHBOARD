@@ -8,3 +8,7 @@ I have created certain measures by Using DAX functions
 
 BAK_CHURN_ANALYSIS :
 In this report i analyse the condition on which customers no longer want to retain their account in the bank.I have created measues by using DAX functions.
+
+
+NOTE:
+please download the ZIP file..
